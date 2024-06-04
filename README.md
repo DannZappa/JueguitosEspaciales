@@ -35,3 +35,4 @@ Daniel Zapata
 
 ## Funcionamiento
 https://youtu.be/huPXQaKGcBU
+[![Watch the video](https://img.youtube.com/vi/huPXQaKGcBU/maxresdefault.jpg)](https://youtu.be/huPXQaKGcBU)
