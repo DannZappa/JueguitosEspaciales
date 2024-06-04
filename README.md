@@ -32,3 +32,6 @@ Todo lo mostrado en esta página es ficticio. Este proyecto es únicamente con f
 
 ## Autor
 Daniel Zapata
+
+## Funcionamiento
+https://youtu.be/huPXQaKGcBU
